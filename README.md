@@ -1,6 +1,5 @@
 ### Hey! 👋
-I'm Samuel Roach, a developer from __Cambridge, UK__. I studied Computer Science at __Swansea University__ from 2018-2022. I also work producing
-tutorial videos as part of [CommandShift](https://www.youtube.com/channel/UC_aVtqAvat6xdUpL2NhKfBA).
+I'm Samuel Roach, a developer from __Cambridge, UK__. I studied Computer Science at __Swansea University__ from 2018-2022. I also work producing tutorial videos as part of [CommandShift](https://www.youtube.com/channel/UC_aVtqAvat6xdUpL2NhKfBA).
 
 ## Skills
 * Java & Kotlin
