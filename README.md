@@ -26,6 +26,7 @@ engineers. I developed proficient skills in team-leading, adaptability and time 
 
 ## Current projects
 * [ChessBot](https://www.github.com/Samuel-Roach/ChessBot)
+* [Ergast-py](https://github.com/Samuel-Roach/ergast-py)
 * [spectrum-py](https://github.com/Samuel-Roach/spectrum-py)
 
 
