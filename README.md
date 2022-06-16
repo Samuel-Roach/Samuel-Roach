@@ -1,5 +1,7 @@
-<h1 align="center">👋 Hey! I'm Samuel  <span style="font-size:large;opacity:50%;">(he/him)</span></h1>
+<h1 align="center">👋 Hey! I'm Samuel</h1>
 <p align="center">
+(he/him)
+<br>
 I'm a developer from <i>Cambridge, UK</i>. I studied Computer Science at <i>Swansea University</i> between 2018-2022. 
 <br>
 I have spent time in professional environments, and have a portfolio of current and previous projects available.
