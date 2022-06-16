@@ -1,46 +1,61 @@
-### Hey! 👋
-I'm Samuel Roach, a developer from __Cambridge, UK__. I studied Computer Science at __Swansea University__ from 2018-2022.
+<h1 align="center">👋 Hey! I'm Samuel  <span style="font-size:large;opacity:50%;">(he/him)</span></h1>
+<p align="center">
+I'm a developer from <i>Cambridge, UK</i>. I studied Computer Science at <i>Swansea University</i> between 2018-2022. 
+<br>
+I have spent time in professional environments, and have a portfolio of current and previous projects available.
+</p>
 
-## Skills
-* Java & Kotlin
-* C & C++
-* Python
-* SQL
-* PHP
-* HTML5
-* CSS3
-* Laravel
-* Docker
-* React
-* Electron
-* TailwindCSS
-* Git
+<hr>
 
-## Experience
-I have spent a year working in an industry leading security software company, [Sophos](https://www.sophos.com). Here I developed extensive skills in
-Python, C++ and SQL. I also worked using version control extensively within a professional environment, and within a team of experienced software
-engineers. I developed proficient skills in team-leading, adaptability and time management within this time.
+<h2 align="center"> Experience </h2>
+<p align="center">
+    A year spent working at the industry leading <a href="https://www.sophos.com">Sophos</a>
+    <br>
+    Industry standard skills in C++, Python and SQL, with experience in using GoogleTest, Bazel and pytest
+    <br>
+    Proficient in team leading, as well as versatility and time management skills.
+</p>
 
-## Previous projects
+<hr>
 
+<h2 align="center"> Skills and tools </h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python"/>
+    <img src="https://img.shields.io/badge/-C_&_C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-SQL-red?style=for-the-badge&logo=SQLite"/>
+    <br>
+    <img src="https://img.shields.io/badge/-GIT-gray?style=for-the-badge&logo=git"/>
+    <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+    <br>
+</p>
 
-## Current projects
-* [ChessBot](https://www.github.com/Samuel-Roach/ChessBot)
-* [Ergast-py](https://github.com/Samuel-Roach/ergast-py)
-* [spectrum-py](https://github.com/Samuel-Roach/spectrum-py)
+<hr>
 
+<h2 align="center"> Current Projects </h2>
+<p align="center">
+    <a href="https://github.com/Samuel-Roach/ChessBot">ChessBot</a> - A Discord bot for users to play chess against each other
+    <br>
+    <a href="https://github.com/Samuel-Roach/ergast-py">Ergast-Py</a> - A comprehensive Python wrapper for the Ergast Formula One API
+    <br>
+    <a href="https://github.com/Samuel-Roach/spectrum-py">Spectrum-Py</a> - A Python a based tool to generate data-based images
+</p>
 
-<!--
-**Samuel-Roach/Samuel-Roach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2 align="center"> Previous Projects </h2>
+<p align="center">
+    🤔 <i style="opacity:50%">Nothing finished just yet...</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2 align="center"> Contact me </h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/-samuel--roach.github.io-purple?style=for-the-badge&link=https://samuel-roach.github.io"/>
+    <img src="https://img.shields.io/badge/-@obelistics-1DA1F2?style=for-the-badge&link=https://twitter.com/obelistics&logo=twitter&logoColor=white"/>
+    <br>
+    <img src="https://img.shields.io/badge/-Samuel_Roach-0A66C2?style=for-the-badge&link=https://www.linkedin.com/in/samuel-roach-08710b183/&logo=LinkedIn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-samuelroach.2000@gmail.com-EA4335?style=for-the-badge&link=mailto:samuelroach.2000@gmail.com&logo=gmail&logoColor=white"/>
+</p>
