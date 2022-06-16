@@ -5,8 +5,6 @@ I'm a developer from <i>Cambridge, UK</i>. I studied Computer Science at <i>Swan
 I have spent time in professional environments, and have a portfolio of current and previous projects available.
 </p>
 
-<hr>
-
 <h2 align="center"> Experience </h2>
 <p align="center">
     A year spent working at the industry leading <a href="https://www.sophos.com">Sophos</a>
@@ -15,8 +13,6 @@ I have spent time in professional environments, and have a portfolio of current 
     <br>
     Proficient in team leading, as well as versatility and time management skills.
 </p>
-
-<hr>
 
 <h2 align="center"> Skills and tools </h2>
 <p align="center">
@@ -31,8 +27,6 @@ I have spent time in professional environments, and have a portfolio of current 
     <br>
 </p>
 
-<hr>
-
 <h2 align="center"> Current Projects </h2>
 <p align="center">
     <a href="https://github.com/Samuel-Roach/ChessBot">ChessBot</a> - A Discord bot for users to play chess against each other
@@ -42,20 +36,16 @@ I have spent time in professional environments, and have a portfolio of current 
     <a href="https://github.com/Samuel-Roach/spectrum-py">Spectrum-Py</a> - A Python a based tool to generate data-based images
 </p>
 
-<hr>
-
 <h2 align="center"> Previous Projects </h2>
 <p align="center">
     🤔 <i style="opacity:50%">Nothing finished just yet...</i>
 </p>
 
-<hr>
-
 <h2 align="center"> Contact me </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/-samuel--roach.github.io-purple?style=for-the-badge&link=https://samuel-roach.github.io"/>
-    <img src="https://img.shields.io/badge/-@obelistics-1DA1F2?style=for-the-badge&link=https://twitter.com/obelistics&logo=twitter&logoColor=white"/>
+    <a href="https://samuel-roach.github.io"><img src="https://img.shields.io/badge/-samuel--roach.github.io-purple?style=for-the-badge"/></a>
+    <a href="https://twitter.com/obelistics"><img src="https://img.shields.io/badge/-@obelistics-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <br>
-    <img src="https://img.shields.io/badge/-Samuel_Roach-0A66C2?style=for-the-badge&link=https://www.linkedin.com/in/samuel-roach-08710b183/&logo=LinkedIn&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-samuelroach.2000@gmail.com-EA4335?style=for-the-badge&link=mailto:samuelroach.2000@gmail.com&logo=gmail&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/samuel-roach-08710b183/"><img src="https://img.shields.io/badge/-Samuel_Roach-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <a href="mailto:samuelroach.2000@gmail.com"><img src="https://img.shields.io/badge/-samuelroach.2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
