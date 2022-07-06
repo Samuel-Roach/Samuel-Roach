@@ -37,9 +37,9 @@ I have spent time in professional environments, and have a portfolio of current 
 
 <h2 align="center"> Current Projects </h2>
 <p align="center">
-    <i>* On pause *</i> <a href="https://github.com/Samuel-Roach/ChessBot">ChessBot</a> - A Discord bot for users to play chess against each other
+    <i>*on pause*</i> <a href="https://github.com/Samuel-Roach/ChessBot">ChessBot</a> - A Discord bot for users to play chess against each other
     <br>
-    <i>* On pause *</i> <a href="https://github.com/Samuel-Roach/spectrum-py">Spectrum-Py</a> - A Python a based tool to generate data-based images
+    <i>*on pause*</i> <a href="https://github.com/Samuel-Roach/spectrum-py">Spectrum-Py</a> - A Python a based tool to generate data-based images
 </p>
 
 <h2 align="center"> Contact me </h2>
