@@ -31,12 +31,13 @@ I have spent time in professional environments, and have a portfolio of current 
 
 <h2 align="center"> Previous Projects </h2>
 <p align="center">
-<!--     🤔 <i style="opacity:50%">Nothing finished just yet...</i> -->
-    <a href="https://github.com/Samuel-Roach/ergast-py">Ergast-Py</a> - A comprehensive Python wrapper for the Ergast Formula One API
+🤔 <i style="opacity:50%">Nothing finished just yet...</i>
 </p>
 
 <h2 align="center"> Current Projects </h2>
 <p align="center">
+    <a href="https://github.com/Samuel-Roach/ergast-py">Ergast-Py</a> - A comprehensive Python wrapper for the Ergast Formula One API
+    <br>
     <i>*on pause*</i> <a href="https://github.com/Samuel-Roach/ChessBot">ChessBot</a> - A Discord bot for users to play chess against each other
     <br>
     <i>*on pause*</i> <a href="https://github.com/Samuel-Roach/spectrum-py">Spectrum-Py</a> - A Python a based tool to generate data-based images
