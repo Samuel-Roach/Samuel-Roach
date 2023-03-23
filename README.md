@@ -9,7 +9,7 @@ I have spent time in professional environments, and have a portfolio of current 
 
 <h2 align="center"> Experience </h2>
 <p align="center">
-    A year spent working at the industry leading <a href="https://www.sophos.com">Sophos</a>
+    Currently employed as a Software Engineer at the industry leading <a href="https://www.sophos.com">Sophos</a>.
     <br>
     Industry standard skills in C++, Python and SQL, with experience in using GoogleTest, Bazel and pytest
     <br>
