@@ -45,9 +45,8 @@ I have spent time in professional environments, and have a portfolio of current 
 
 <h2 align="center"> Contact me </h2>
 <p align="center">
-    <a href="https://samuel-roach.github.io"><img src="https://img.shields.io/badge/-samuel--roach.github.io-purple?style=for-the-badge"/></a>
-    <a href="https://twitter.com/obelistics"><img src="https://img.shields.io/badge/-@obelistics-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <br>
+    <a href="https://samuel-roach.com"><img src="https://img.shields.io/badge/-samuel--roach.com-purple?style=for-the-badge"/></a>
     <a href="https://www.linkedin.com/in/samuel-roach-08710b183/"><img src="https://img.shields.io/badge/-Samuel_Roach-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+    <br>
     <a href="mailto:samuelroach.2000@gmail.com"><img src="https://img.shields.io/badge/-samuelroach.2000@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
