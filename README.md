@@ -11,9 +11,7 @@ I have spent time in professional environments, and have a portfolio of current 
 <p align="center">
     Currently employed as a Software Engineer at the industry leading <a href="https://www.sophos.com">Sophos</a>.
     <br>
-    Industry standard skills in C++, Python and SQL, with experience in using GoogleTest, Bazel and pytest
-    <br>
-    Proficient in team leading, as well as versatility and time management skills.
+    Industry standard skills in C++, Python and SQL, with experience in using GoogleTest, Bazel, Jenkins and pytest amongst others.
 </p>
 
 <h2 align="center"> Skills and tools </h2>
